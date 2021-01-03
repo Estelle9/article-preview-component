@@ -103,6 +103,7 @@ body {
 
 .btn:focus {
     background-color: hsl(214, 17%, 51%);
+    outline: none;
 }
 
 .btn:focus svg {
