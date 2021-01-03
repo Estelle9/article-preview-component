@@ -90,6 +90,7 @@ body {
     background-color: hsl(210, 46%, 95%);
     cursor: pointer;
     z-index: 4;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .btn svg {
