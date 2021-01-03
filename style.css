@@ -98,7 +98,7 @@ body {
 }
 
 .btn:active {
-    box-shadow: 0 5px hsl(210, 46%, 95%);
+    /*box-shadow: 0 5px hsl(210, 46%, 95%);*/
     transform: translateY(2px);
 }
 
